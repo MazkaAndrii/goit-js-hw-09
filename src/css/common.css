@@ -26,8 +26,8 @@ img {
 }
 
 .start-button {
-  background-color: #4caf50;
-  border: 3px solid darkgreen;
+  background-color: #afac4c;
+  border: 3px solid rgb(32, 0, 100);
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -63,7 +63,7 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  border-bottom: #4caf50 3px dashed;
+  border: blue 3px solid;
   padding: 10px;
   width: 80px;
 }
@@ -78,17 +78,16 @@ img {
 
 .timer-start {
   margin-left: 15px;
-  width: 60px;
+  width: 65px;
   height: 40px;
   cursor: pointer;
-  background-color: #4caf50;
-  border: 3px solid darkgreen;
-  color: white;
-  border-radius: 20%;
+  background-color: yellow;
+  border: 3px solid blue;
+  color: blue;
 }
 
 .input-data {
-  border: darkgreen 3px solid;
+  border: blue 3px solid;
   height: 40px;
   width: 280px;
   font-size: 18px;
